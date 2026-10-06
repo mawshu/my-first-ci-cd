@@ -1,4 +1,4 @@
-# app.py — ИСПРАВЛЕННАЯ ВЕРСИЯ (Шаг 5). Переименуйте в app.py
+import nonexistent_module
 import hashlib
 import ipaddress
 import subprocess
